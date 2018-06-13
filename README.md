@@ -20,6 +20,10 @@ The example of such robot is [DOXEL](https://www.doxel.ai/)
     cd ~/catkin_ws
     catkin_make
 
+To install octomap use the following lines:
+
+    sudo apt-get install ros-kinetic-octomap-server ros-kinetic-turtlebot ros-kinetic-turtlebot-teleop ros-kinetic-turtlebot-description ros-kinetic-turtlebot-navigation ros-kinetic-turtlebot-rviz-launchers ros-kinetic-turtlebot-simulator ros-kinetic-turtlebot-simulator
+
 ### Known issues
 
 * Reinstall gazebo
@@ -32,3 +36,6 @@ The example of such robot is [DOXEL](https://www.doxel.ai/)
     source ~/catkin_ws/devel/setup.bash
     roslaunch youbot_launch youbot_velodyne.launch
 
+### Demo
+
+[Watch video](https://drive.google.com/open?id=1HGKcpqTT_lGjj5pPZCfWLw5elG-Cj0WQ)

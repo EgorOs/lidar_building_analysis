@@ -3,7 +3,7 @@
 An attempt to simulate a robot capable of mapping the scene and register objects movement or deviation from reference map.
 The example of such robot is [DOXEL](https://www.doxel.ai/)
 
-![](https://github.com/EgorOs/lidar_building_analysis/imgs/rviz.png  "")  
+![](https://github.com/EgorOs/lidar_building_analysis/blob/master/imgs/rviz.png  "")  
 
 ### Required packages
 
